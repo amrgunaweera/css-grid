@@ -1,0 +1,1 @@
+.wrapper-grid{display:grid;grid-template-columns:35% 25% 40%;grid-gap:1em}.wrapper-grid>div{background:#eee;padding:1em}.wrapper-grid>div:nth-child(odd){background:#ddd}
